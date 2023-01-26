@@ -1,4 +1,4 @@
-# currency-exchanger
+# Currency Exchanger
 
 This is a sample react app as a currency exchanger
 
