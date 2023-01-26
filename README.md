@@ -7,3 +7,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `yarn start`
+
+More commonds and actions can be found [here](https://github.com/ohahahadurian/currency-exchanger/blob/master/src/README.md)
+
